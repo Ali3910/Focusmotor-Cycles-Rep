@@ -445,6 +445,16 @@ background-color: var(--text-dark);
 
 @media (width < 900px){
 
+        .contact-left input{
+        width: 250px;
+        height: 35px;
+    }
+
+    .contact-left textarea{
+        width: 270px;
+        height: 100px;
+    }
+
     html,body{
         width: 100%;
         height: 100%;
